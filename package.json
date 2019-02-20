@@ -1,0 +1,28 @@
+{
+  "name": "meridiem-time-regexp",
+  "version": "1.0.0",
+  "description": "JavaScript RegExp for matching 12-Hour meridiem time strings with match groups for time, hour, minute, and period.",
+  "files": [ "index.js" ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "regex",
+    "regular-expressions",
+    "regexp",
+    "regexps",
+    "meridiem",
+    "time",
+    "12-hour",
+    "am",
+    "pm",
+    "ampm",
+    "a.m.",
+    "p.m.",
+    "am",
+    "pm"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT"
+}
