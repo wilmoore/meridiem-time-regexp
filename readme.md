@@ -122,7 +122,7 @@ regexp.unicode
 
 [![GitHub license](https://img.shields.io/github/license/wilmoore/meridiem-time-regexp.svg)](https://github.com/wilmoore/meridiem-time-regexp/blob/master/license)
 
-[meridiem-time-regexp]: https://regex101.com/r/TaR5CQ/1
+[meridiem-time-regexp]: https://regex101.com/r/JV9o9q/1
 [meridiem]: https://en.wikipedia.org/wiki/12-hour_clock
 [RegExp.prototype.*]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/prototype
 [RegExp.prototype.exec()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
