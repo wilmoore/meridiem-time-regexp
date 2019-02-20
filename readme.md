@@ -1,7 +1,7 @@
 # meridiem-time-regexp
 > JavaScript `RegExp` for matching [12-Hour][meridiem] time strings with match groups for `time`, `hour`, `minute`, and `meridiem`.
 
-[![Build Status](http://img.shields.io/travis/wilmoore/meridiem-time-regexp.svg)](https://travis-ci.org/wilmoore/meridiem-time-regexp) [![Code Climate](https://codeclimate.com/github/wilmoore/meridiem-time-regexp/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/meridiem-time-regexp) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Build Status](http://img.shields.io/travis/wilmoore/meridiem-time-regexp.svg)](https://travis-ci.org/wilmoore/meridiem-time-regexp) [![Maintainability](https://api.codeclimate.com/v1/badges/88bca7efad3edea01941/maintainability)](https://codeclimate.com/github/wilmoore/meridiem-time-regexp/maintainability) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![npm](https://img.shields.io/npm/v/meridiem-time-regexp.svg)](https://www.npmjs.org/package/meridiem-time-regexp) [![NPM downloads](http://img.shields.io/npm/dm/meridiem-time-regexp.svg)](https://www.npmjs.org/package/meridiem-time-regexp) [![Dependency Status](https://gemnasium.com/wilmoore/meridiem-time-regexp.svg)](https://gemnasium.com/wilmoore/meridiem-time-regexp)
 
 ```
@@ -117,12 +117,6 @@ regexp.unicode
 ## Contributing
 
 > SEE: [contributing.md](contributing.md)
-
-## Todos
-
-- [ ] iterate on regular expression in `regex101.com`
-- [ ] port regex tests to assertions
-- [ ] build some assertions 
 
 ## Licenses
 
